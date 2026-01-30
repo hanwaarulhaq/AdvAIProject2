@@ -79,15 +79,3 @@ This repository contains implementations of various deep learning models for pla
 ## Demo
 
 - `Demo.mp4`: Demonstration video of the models in action
-
-## Git Commit History
-
-- `53c6593ff51329f268344a65e40c348fd8c7786f` feat: add demo video
-- `fd823b858fa91c8b34d46c49ea18da4f393564b4` feat: add vision transformer v2 notebook and documentation
-- `a4205aadb1a11f36d0af2c68b0a7ef83e0410b40` Vision Transformer with PlantVillage dataset
-- `21b0f38bac32fb2d55481e39c8c77b422237d2d0` Rename PlantDocRCNN.ipynb to PlantDocFasterRCNN.ipynb
-- `4e156cbf03132161c1b54af46805d56f52fbdd0b` Delete PlantDocRCNN2
-- `64e41f970922ef13b68f3cb6518a7839ff1fe124` Add R-CNN implementation for plant classification
-- `52d0c2df54ddc5b08d16526e7e682faa7903bfb` Add original R-CNN implementation from scratch
-- `5cb8f9752f2a7408c6a46896e3da0b9a5e87e6a5` Add PlantDoc Faster-RCNN implementation from scratch
-- `68ce7cdf903d393594dcebd9b68f527cae0c6` Add custom Faster R-CNN model for tomato disease detection
